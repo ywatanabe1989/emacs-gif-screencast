@@ -1,0 +1,24 @@
+#+TITLE: Elisp Test Report
+#+AUTHOR: ywatanabe
+#+DATE: 2025-03-05 08:57:49 Created by https://github.com/ywatanabe1989/emacs-test
+
+* Test Results Summary
+
+- Passed: 7
+- Failed: 0
+- Skipped: 0
+- Timeout (= 10 s): 0
+- Duplicates: 0
+- Total: 7
+- Total Time: 0.17 seconds
+- Success Rate: 100.0%
+
+* Passed Tests (7)
+** test-emacs-gif-screencast.el (7 tests)
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-loadable][test-emacs-gif-screencast-loadable]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-output-directory][test-emacs-gif-screencast-output-directory]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-detect-wsl][test-emacs-gif-screencast-detect-wsl]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-mode][test-emacs-gif-screencast-mode]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-variables][test-emacs-gif-screencast-variables]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-cropping-region][test-emacs-gif-screencast-cropping-region]]
+- [[file:tests/test-emacs-gif-screencast.el::test-emacs-gif-screencast-system-dependent-defaults][test-emacs-gif-screencast-system-dependent-defaults]]
